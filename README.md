@@ -3,5 +3,7 @@ sudo apt install git -y && git clone https://github.com/goanec82/dockerinstall_s
 
 # Commands
 sudo docker ps #list CONTAINER ID
+
 sudo docker stop ID 
+
 sudo docker start ID
